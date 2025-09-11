@@ -1,5 +1,10 @@
 # What is a Network?
 
+<p align="center">
+  <img src="./../Images-Doc/Network_image.png" alt="Network_image" width="350px"/>
+</p>
+
+
 A **network** refers to a system of interconnected elements that are linked together in order to share resources, exchange information, and services.  
 
 During sharing in networks, it is important to follow rules that we call **“Protocol”** to ensure proper sharing (e.g., messages should reach the receiver in the same order and at the same time).  
@@ -10,9 +15,20 @@ To implement these protocols, the **International Organization for Standardizati
 
 ## Layer of OSI Model
 
+<p align="center">
+  <img src="./../Images-Doc/7-layer-osi.png" alt="7-layer-osi" width="300px"/>
+</p>
+
+The OSI model has 7 layers: the Physical layer handles raw bit transmission over cables or signals, the Data Link layer manages error detection and framing, the Network layer deals with addressing and routing, the Transport layer ensures reliable end-to-end delivery, the Session layer manages sessions between devices, the Presentation layer translates, encrypts, and compresses data, and the Application layer provides network services directly to the user like email, web browsing, and file transfer.
+
+
 ---
 
 ## 1. Connection Types
+
+<p align="center">
+  <img src="./../Images-Doc/Connection-types.png" alt="Connection-types" width="400px"/>
+</p>
 
 - **Point-to-Point**  
   Direct link between 2 devices.  
@@ -25,6 +41,10 @@ To implement these protocols, the **International Organization for Standardizati
 ---
 
 ## 2. Transmission
+
+<p align="center">
+  <img src="./../Images-Doc/Transmission-modes.png" alt="Transmission-modes" width="350px"/>
+</p>
 
 **Definition:** Method of transferring data between devices across a network.  
 Ensures communication by defining the **direction of data flow**.  
@@ -46,8 +66,6 @@ Ensures communication by defining the **direction of data flow**.
   - Increases efficiency, requires better hardware.  
   - *Example:* Telephone calls, Zoom/WhatsApp calls.  
 
-**Q:** Physical path over which a message travels → **Medium**
-
 ---
 
 ## 3. Transmission Media
@@ -64,6 +82,11 @@ Ensures communication by defining the **direction of data flow**.
 ## 4. Guided Media (Wired Communication)
 
 ### (a) Twisted Pair Cable
+
+<p align="center">
+  <img src="./../Images-Doc/Twister-cables.png" alt="Twister-cables" width="350px"/>
+</p>
+
 - Made of two copper wires twisted in a helix form to reduce electromagnetic interference (EMI).  
 - Cheap, lightweight, and easy to install, but limited bandwidth.  
 - *Examples:* Home internet cables, office LANs.  
@@ -72,6 +95,11 @@ Ensures communication by defining the **direction of data flow**.
 
 
 ### (b) Coaxial Cable
+
+<p align="center">
+  <img src="./../Images-Doc/Twister-cables.png" alt="Twister-cables" width="350px"/>
+</p>
+
 - Contains a central copper core, insulating layer, and metallic shield to prevent EMI.  
 - Supports high-frequency signals and provides better performance than twisted pair.  
 
@@ -89,6 +117,11 @@ Ensures communication by defining the **direction of data flow**.
 ---
 
 ### (c) Fiber Optic Cable
+
+<p align="center">
+  <img src="./../Images-Doc/Fiber-Optic-cable.png" alt="Fiber-Optic-cable" width="350px"/>
+</p>
+
 - Uses **light pulses** to transmit data at very high speed.  
 - Immune to electromagnetic interference and supports long-distance communication.  
 
