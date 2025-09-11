@@ -1,7 +1,7 @@
 # What is a Network?
 
 <p align="center">
-  <img src="./../Images-Doc/Network_image.png" alt="Network_image" width="350px"/>
+  <img src="./../Images-Doc/Network_image.png" alt="Network_image" width="300px"/>
 </p>
 
 
@@ -27,7 +27,7 @@ The OSI model has 7 layers: the Physical layer handles raw bit transmission over
 ## 1. Connection Types
 
 <p align="center">
-  <img src="./../Images-Doc/Connection-types.png" alt="Connection-types" width="400px"/>
+  <img src="./../Images-Doc/Connection-types.png" alt="Connection-types" width="300px"/>
 </p>
 
 - **Point-to-Point**  
@@ -43,7 +43,7 @@ The OSI model has 7 layers: the Physical layer handles raw bit transmission over
 ## 2. Transmission
 
 <p align="center">
-  <img src="./../Images-Doc/Transmission-modes.png" alt="Transmission-modes" width="350px"/>
+  <img src="./../Images-Doc/Transmission-modes.png" alt="Transmission-modes" width="300px"/>
 </p>
 
 **Definition:** Method of transferring data between devices across a network.  
@@ -84,7 +84,7 @@ Ensures communication by defining the **direction of data flow**.
 ### (a) Twisted Pair Cable
 
 <p align="center">
-  <img src="./../Images-Doc/Twister-cables.png" alt="Twister-cables" width="350px"/>
+  <img src="./../Images-Doc/Twister-cables.png" alt="Twister-cables" width="300px"/>
 </p>
 
 - Made of two copper wires twisted in a helix form to reduce electromagnetic interference (EMI).  
@@ -97,7 +97,7 @@ Ensures communication by defining the **direction of data flow**.
 ### (b) Coaxial Cable
 
 <p align="center">
-  <img src="./../Images-Doc/Twister-cables.png" alt="Twister-cables" width="350px"/>
+  <img src="./../Images-Doc/Coaxial-cable.png" alt="Coaxial-cable" width="300px"/>
 </p>
 
 - Contains a central copper core, insulating layer, and metallic shield to prevent EMI.  
@@ -119,7 +119,7 @@ Ensures communication by defining the **direction of data flow**.
 ### (c) Fiber Optic Cable
 
 <p align="center">
-  <img src="./../Images-Doc/Fiber-Optic-cable.png" alt="Fiber-Optic-cable" width="350px"/>
+  <img src="./../Images-Doc/Fiber-Optic-cable.png" alt="Fiber-Optic-cable" width="300px"/>
 </p>
 
 - Uses **light pulses** to transmit data at very high speed.  
