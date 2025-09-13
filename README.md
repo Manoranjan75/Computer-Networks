@@ -9,13 +9,13 @@ Computer Networks form the backbone of modern communication systems, enabling da
 ## Repository Structure
 
 - **Introduction**
-  - [`Introduction`](./Networks-Introduction.md) – Provides a foundation for computer networks, their evolution, importance in modern computing, and applications in daily life.
+  - [`Introduction`](./Networks-Doc/Networks-Introduction.md) – Provides a foundation for computer networks, their evolution, importance in modern computing, and applications in daily life.
 
 - **Network Devices**
-  - [`Network_devices`](./Networking-Concepts.md) – Explains hardware components such as NIC, Hub, Switch, Bridge, Router, Gateway, Repeater, and Firewall, along with various types of networks such as LAN, MAN, WAN and Network topologies.
+  - [`Network_devices`](./Networks-Doc/Networking-Concepts.md) – Explains hardware components such as NIC, Hub, Switch, Bridge, Router, Gateway, Repeater, and Firewall, along with various types of networks such as LAN, MAN, WAN and Network topologies.
 
 - **OSI Model**
-  - [`Physical_layer`](./Physical-Layer.md) – Responsible for the physical transmission of raw bits, signals, and performance metrics.
+  - [`Physical_layer`](./Networks-Doc/Physical-Layer.md) – Responsible for the physical transmission of raw bits, signals, and performance metrics.
   - [`Data_link_layer`](./data_link_layer.md) – Focuses on framing, addressing, and error control at the data link level.
   - [`Network_layer`](./network_layer.md) – Manages logical addressing, routing, and packet forwarding.
   - [`Transport_layer`](./transport_layer.md) – Ensures reliable end-to-end delivery, sequencing, and flow control.
