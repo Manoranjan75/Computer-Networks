@@ -1,4 +1,4 @@
-# Computer Networks Repository
+# Computer Networks
 
 <p align="center">
   <img src="./Pictures-Doc/CN-Image.png" alt="NIC" width="300px" />
