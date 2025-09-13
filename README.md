@@ -1,5 +1,10 @@
 # Computer Networks Repository
 
+<p align="center">
+  <img src="./Pictures-Doc/CN-Image.png" alt="NIC" width="300px" />
+</p>
+
+
 This repository provides a structured and comprehensive study material on **Computer Networks**. It is designed to cover both the theoretical concepts and their practical relevance. The content is organized into separate markdown files for clarity, making it easier for learners to navigate and focus on one topic at a time.  
 
 Computer Networks form the backbone of modern communication systems, enabling data exchange, resource sharing, and connectivity across the globe. This repository explains the basics of networks, their devices, types, and a detailed breakdown of the **OSI (Open Systems Interconnection) Model**, which is fundamental to understanding how communication works in layered architectures.
