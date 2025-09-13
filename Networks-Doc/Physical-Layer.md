@@ -1,5 +1,10 @@
 # Physical Layer (Part 1)
 
+<p align="center">
+  <img src="./../Pictures-Doc/Physical Layer.png" alt="Physical Layer" width="300px"/>
+</p>
+
+
 The **Physical Layer** is the lowest layer of the OSI model. It is responsible for the **actual transmission of raw bits (0s and 1s) as signals** over a physical medium such as copper wires, fiber optics, or air (in case of wireless communication). Unlike the higher layers, it does not deal with meaning of data; it only ensures that the data in the form of bits can travel from one device to another.  
 
 ---
