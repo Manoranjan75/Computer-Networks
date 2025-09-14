@@ -21,7 +21,7 @@ Computer Networks form the backbone of modern communication systems, enabling da
 
 - **OSI Model**
   - [`Physical_layer`](./Networks-Doc/Physical-Layer.md) – Responsible for the physical transmission of raw bits, signals, and performance metrics.
-  - [`Data_link_layer`](./data_link_layer.md) – Focuses on framing, addressing, and error control at the data link level.
+  - [`Data_link_layer`](./Networks-Doc/Data-Link-Layer.md) – Focuses on framing, addressing, and error control at the data link level.
   - [`Network_layer`](./network_layer.md) – Manages logical addressing, routing, and packet forwarding.
   - [`Transport_layer`](./transport_layer.md) – Ensures reliable end-to-end delivery, sequencing, and flow control.
   - [`Session_layer`](./session_layer.md) – Establishes, manages, and terminates sessions between communicating systems.
