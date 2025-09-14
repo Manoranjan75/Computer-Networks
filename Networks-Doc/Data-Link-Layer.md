@@ -1,6 +1,9 @@
 # Data Link Layer
 
-## What is the Data Link Layer?
+<p align="center">
+  <img src="./../Pictures-Doc/Data-Link-Layer.png" alt="Data-Link-Layer" width="300px"/>
+</p>
+
 The Data Link Layer acts as a **reliable mail service between two directly connected neighbors**.  
 Just like a postal worker ensures your letter gets from your house to your neighbor’s house without damage, the Data Link Layer ensures data is transferred **from one network device to the next without errors**.
 
