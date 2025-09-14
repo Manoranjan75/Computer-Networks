@@ -101,14 +101,3 @@ Receiver speed = **100 Mbps**
 → Flow control slows down sender or buffers data  
 
 ---
-
-## Media Access Control (MAC): Sharing the Network
-### The Problem
-Multiple devices want to send data at the same time → Collisions.
-
-### Solutions
-- **Token Passing** – Devices take turns sending  
-- **CSMA/CD (Ethernet)** – Listen before sending, detect collisions, retry  
-- **CSMA/CA (WiFi)** – Avoid collisions before sending  
-
----
