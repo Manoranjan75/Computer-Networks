@@ -1,5 +1,9 @@
 # Network Layer 
 
+<p align="center">
+  <img src="./../Pictures-Doc/Network-Layer.png" alt="Network-Layer" width="300px"/>
+</p>
+
 The **Network Layer** is the **third layer of the OSI model**.  
 Its main responsibility is to ensure that data can be transferred from the **source device to the destination device across multiple networks**.  
 
