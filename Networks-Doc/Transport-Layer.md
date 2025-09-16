@@ -1,4 +1,8 @@
-# Transport Layer: Complete Overview  
+# Transport Layer
+
+<p align="center">
+  <img src="./../Pictures-Doc/Transport-Layer.png" alt="Transport-Layer" width="300px"/>
+</p>
 
 The **Transport Layer (Layer 4 of the OSI Model)** ensures reliable process-to-process delivery of data.  
 While the Network Layer handles host-to-host delivery, the Transport Layer makes sure that data reaches the **right process** within the right host.  
