@@ -24,7 +24,7 @@ Computer Networks form the backbone of modern communication systems, enabling da
   - [`Data_link_layer`](./Networks-Doc/Data-Link-Layer.md) – Focuses on framing, addressing, and error control at the data link level.
   - [`Network_layer`](.//Networks-Doc/Network-Layer.md) – Manages logical addressing, routing, and packet forwarding.
   - [`Transport_layer`](./Networks-Doc/Transport-Layer.md) – Ensures reliable end-to-end delivery, sequencing, and flow control.
-  - [`Session_layer`](./session_layer.md) – Establishes, manages, and terminates sessions between communicating systems.
+  - [`Session_layer`](.//Networks-Doc/Session-Layer.md) – Establishes, manages, and terminates sessions between communicating systems.
   - [`Presentation_layer`](./presentation_layer.md) – Handles data translation, encryption, and compression for proper delivery.
   - [`Application_layer`](./application_layer.md) – Provides services and interfaces for user applications such as web browsing, file transfer, and email.
 
