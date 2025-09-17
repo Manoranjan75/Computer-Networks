@@ -1,5 +1,10 @@
 # Session Layer
 
+<p align="center">
+  <img src="./../Pictures-Doc/Session-Layer.png" alt="Session-Layer" width="300px"/>
+</p>
+
+
 - The **Session Layer** is the **5th layer of the OSI model**, sitting above the Transport Layer and below the Presentation Layer.  
 - It manages **establishing, maintaining, and terminating sessions** (conversations) between applications on different devices.  
 - Think of it as a **conversation manager** ensuring orderly, reliable communication that can recover if disrupted.  
