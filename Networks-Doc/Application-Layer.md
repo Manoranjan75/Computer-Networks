@@ -1,5 +1,9 @@
 # Application Layer (Layer 7)
 
+<p align="center">
+  <img src="./../Pictures-Doc/Application-Layer.png" alt="Application-Layer.png" width="300px"/>
+</p>
+
 The **Application Layer** is the **7th and topmost layer** of the OSI model.  
 It is directly closest to the end-users, providing **network services to applications** and enabling communication between software and the underlying network.  
 
