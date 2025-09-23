@@ -26,7 +26,7 @@ Computer Networks form the backbone of modern communication systems, enabling da
   - [`Transport_layer`](./Networks-Doc/Transport-Layer.md) – Ensures reliable end-to-end delivery, sequencing, and flow control.
   - [`Session_layer`](.//Networks-Doc/Session-Layer.md) – Establishes, manages, and terminates sessions between communicating systems.
   - [`Presentation_layer`](./Networks-Doc/Presentation-Layer.md) – Handles data translation, encryption, and compression for proper delivery.
-  - [`Application_layer`](./application_layer.md) – Provides services and interfaces for user applications such as web browsing, file transfer, and email.
+  - [`Application_layer`](./Networks-Doc/Application-Layer.md) – Provides services and interfaces for user applications such as web browsing, file transfer, and email.
 
 ---
 
