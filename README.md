@@ -1,7 +1,7 @@
 # Computer Networks
 
 <p align="center">
-  <img src="./Pictures-Doc/CN-Image.png" alt="NIC" width="300px" />
+  <img src="./Pictures-Doc/CN-Image.png" alt="CN-Image" width="300px" />
 </p>
 
 
